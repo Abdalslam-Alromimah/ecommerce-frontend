@@ -1,0 +1,16 @@
+.cart {
+  padding: 20px;
+}
+
+.cart-item {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart h3 {
+  margin-top: 0;
+  color: #333;
+  font-size: 1.2em;
+}

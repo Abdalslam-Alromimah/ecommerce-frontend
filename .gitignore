@@ -1,0 +1,11 @@
+node_modules
+build
+.DS_Store
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+npm-debug.log
+yarn-error.log
+yarn-debug.log
